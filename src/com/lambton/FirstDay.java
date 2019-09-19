@@ -5,16 +5,21 @@ public class FirstDay
  public static void main(String[] args) {
 
    System.out.println("welcome to java");
-System.out.println("Rajdeep");
-int a,b,c;
+//Variable declaration
+   System.out.println("Rajdeep");
+//Value Assignment
+   int a,b,c;
 a =10;
 b = 20;
-c = a+b;
 
- System.out.println("SUM:" + c);
+c = a+b;
+//Display Result
+System.out.println("SUM:" + c);
+
  }
 
-
-
+public class student
+{ int studentid;
+string studentName;}
 }
 
